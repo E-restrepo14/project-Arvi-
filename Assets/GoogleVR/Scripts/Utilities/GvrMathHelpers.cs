@@ -37,9 +37,9 @@ public static class GvrMathHelpers {
     int viewportHeight = Screen.height;
 #if UNITY_HAS_GOOGLEVR && (UNITY_ANDROID || UNITY_EDITOR) && UNITY_ANDROID
     // GVR native integration is supported.
-    if (UnityEngine.VR.VRSettings.enabled) {
-      viewportWidth = UnityEngine.VR.VRSettings.eyeTextureWidth;
-      viewportHeight = UnityEngine.VR.VRSettings.eyeTextureHeight;
+    if (UnityEngine.XR.XRSettings.enabled) {
+      viewportWidth = UnityEngine.XR.XRSettings.eyeTextureWidth;
+      viewportHeight = UnityEngine.XR.XRSettings.eyeTextureHeight;
     }
 #endif  // UNITY_HAS_GOOGLEVR && (UNITY_ANDROID || UNITY_EDITOR) && UNITY_ANDROID
 

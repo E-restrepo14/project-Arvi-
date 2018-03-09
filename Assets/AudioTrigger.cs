@@ -22,7 +22,7 @@ public class AudioTrigger : MonoBehaviour {
     private AudioClip gavilanMasLucido;
 
     public AudioSource source;
-    private float volRange = 1.0f;
+    private float volRange = 0.8f;
 
 
     void Awake()
@@ -32,10 +32,14 @@ public class AudioTrigger : MonoBehaviour {
 
     void OnTriggerEnter(Collider other)
     {
+
         if (other.gameObject.CompareTag("Tucaneta"))
         {
             source.Stop();
-            source.PlayOneShot(aveRuidosaEscondida, volRange);
+            source.clip = aveRuidosaEscondida;
+            source.volume = 0.08f;
+            source.Play();
+            
 
         }
         else
@@ -43,7 +47,10 @@ public class AudioTrigger : MonoBehaviour {
         if (other.gameObject.CompareTag("Cristofue"))
         {
             source.Stop();
-            source.PlayOneShot(aveRuidosaExpuesta, 0.18f);
+            source.clip = aveRuidosaExpuesta;
+            source.volume = 0.04f;
+            source.Play();
+            
 
         }
         else
@@ -51,7 +58,10 @@ public class AudioTrigger : MonoBehaviour {
         if (other.gameObject.CompareTag("Gorrion"))
         {
             source.Stop();
-            source.PlayOneShot(aveSilenciosa, 0.5f);
+            source.clip = aveSilenciosa;
+            source.volume = 0.8f;
+            source.Play();
+           
 
         }
         else
@@ -59,7 +69,10 @@ public class AudioTrigger : MonoBehaviour {
         if (other.gameObject.CompareTag("Barranquero"))
         {
             source.Stop();
-            source.PlayOneShot(aveSolitaria, volRange);
+            source.clip = aveSolitaria;
+            source.volume = volRange;
+            source.Play();
+            
 
         }
         else
@@ -67,7 +80,10 @@ public class AudioTrigger : MonoBehaviour {
         if (other.gameObject.CompareTag("Grillos"))
         {
             source.Stop();
-            source.PlayOneShot(avesYGrillos, volRange);
+            source.clip = avesYGrillos;
+            source.volume = 0.5f;
+            source.Play();
+            
 
         }
         else
@@ -75,7 +91,10 @@ public class AudioTrigger : MonoBehaviour {
         if (other.gameObject.CompareTag("Ranas"))
         {
             source.Stop();
-            source.PlayOneShot(ranasCantando, volRange);
+            source.clip = ranasCantando;
+            source.volume = volRange;
+            source.Play();
+            
 
         }
 
@@ -84,7 +103,11 @@ public class AudioTrigger : MonoBehaviour {
         if (other.gameObject.CompareTag("Gavilan"))
         {
             source.Stop();
-            source.PlayOneShot(gavilanMasLucido, volRange);
+            source.clip = gavilanMasLucido;
+            source.volume = volRange;
+            source.Play();
+
+            
 
         }
         else
@@ -92,11 +115,16 @@ public class AudioTrigger : MonoBehaviour {
         if (other.gameObject.CompareTag("Gavilansin"))
         {
             source.Stop();
-            source.PlayOneShot(gavilan, volRange);
+            source.clip = gavilan;
+            source.volume = volRange;
+            source.Play();
+
+           
 
         }
 
     }
 
+   
 
 }
