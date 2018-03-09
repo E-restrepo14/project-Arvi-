@@ -9,6 +9,18 @@ first download the apk at this link https://drive.google.com/file/d/10ar9zmKCDsa
 save it in your mobile device
 
                        Prerequisites
+                       
+                       
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+
 
 Android minimal operating system 4.4.4 "kit kat"
 
