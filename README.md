@@ -1,4 +1,4 @@
-# Arvi WorldThe project is a model of an ecological park similar to the park Arvi de Medellín, it is exposed a bit about its flora and fauna and seeks to be similar to a slide presentation but a little more dynamic
+# Arvi World The project is a model of an ecological park similar to the park Arvi de Medellín, it is exposed a bit about its flora and fauna and seeks to be similar to a slide presentation but a little more dynamic##
 
 Getting Started
 first download the apk at this link https://drive.google.com/file/d/10ar9zmKCDsaLhbkc1xadqCDYCTWUVIcY/view
