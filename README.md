@@ -3,25 +3,14 @@
 The project is a model of an ecological park similar to the park Arvi de Medellín, it is exposed a bit about its flora and fauna and seeks to be similar to a slide presentation but a little more dynamic
 
 
-                       Getting Started
+                       ###Getting Started
 
 first download the apk at this link https://drive.google.com/file/d/10ar9zmKCDsaLhbkc1xadqCDYCTWUVIcY/view
 save it in your mobile device
 
-                       Prerequisites
+                       ###Prerequisites
                        
-                       
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-
-
+                  
 Android minimal operating system 4.4.4 "kit kat"
 
                        Installing
