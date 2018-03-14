@@ -88,5 +88,6 @@ the comrade Andres Ruiz
 
 ### links to the cloud files:
 https://drive.google.com/file/d/10ar9zmKCDsaLhbkc1xadqCDYCTWUVIcY/view?usp=sharing
-https://drive.google.com/file/d/1Q832KHgMoH0Cc9IvjoBRtG6WCpbs4qFu/view?https://docs.google.com/document/d/1l3aeWvTt7y9Ng05wJLc3OPCDQd0S_DA00SAuKGPvPHw/edit?usp=sharing
+https://drive.google.com/file/d/1Q832KHgMoH0Cc9IvjoBRtG6WCpbs4qFu/view?
+https://docs.google.com/document/d/1l3aeWvTt7y9Ng05wJLc3OPCDQd0S_DA00SAuKGPvPHw/edit?usp=sharing
 https://drive.google.com/file/d/1itiZ7JwnAKz5HIQLliQqHQP1fG9hpZk9/view?usp=sharing
