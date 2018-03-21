@@ -1,31 +1,20 @@
-                        
-
+                    
 ### Arvi World
 
 The project is a model of an ecological park similar to the park Arvi de Medellín, it is exposed a bit about its flora and fauna and seeks to be similar to a slide presentation but a little more dynamic
-
-
-
 
 ### Getting Started
 
 first download the apk at this link https://drive.google.com/file/d/10ar9zmKCDsaLhbkc1xadqCDYCTWUVIcY/view
 save it in your mobile device
 
-
-
 ### Prerequisites
-                       
-                  
+                                       
 Android minimal operating system 4.4.4 "kit kat"
-
                       
-
 ### Installing
 
 This is very easy, you have no other options apart from the install button.
-
-
 
 ### Built With
 
@@ -37,12 +26,9 @@ maya - used to take uv maps
 
 photoshop - used to paint textures
                        
-
 ### Versioning
 
 At the moment there are no different versions
-
-                       
 
 ### Authors
 
@@ -68,11 +54,9 @@ virtual reality sdks cardboard
 
 jdk version 1.8.0_161, last version may cause errors to build
 
-
 ### License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
-
                    
 ### Acknowledgments
 
@@ -84,11 +68,13 @@ The Companion Juan David Barrera
 
 the comrade Andres Ruiz
 
-                       
-
 ### links to the cloud files:
 GDD1 https://drive.google.com/file/d/1RmoRYM4gqGBOCoxwEujvBmYe4IbPakMy/view?usp=sharing
+
 GDD2 https://drive.google.com/file/d/19AzAi8UHRzwtkW_9XUwgifSJ5jMI7iTT/view?usp=sharing
+
 apk link1 https://drive.google.com/file/d/10ar9zmKCDsaLhbkc1xadqCDYCTWUVIcY/view?usp=sharing
+
 apk link2 https://drive.google.com/file/d/1itiZ7JwnAKz5HIQLliQqHQP1fG9hpZk9/view?usp=sharing
+
 GCD: https://drive.google.com/file/d/1Q832KHgMoH0Cc9IvjoBRtG6WCpbs4qFu/view?
